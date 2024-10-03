@@ -1,0 +1,79 @@
+{
+  "name": "tyger-services",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.108",
+    "@types/react": "^18.3.6",
+    "@types/react-dom": "^18.3.0",
+    "primereact": "^10.8.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^6.26.2",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.1.13",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "",
+    "@craco/craco": "^7.1.0",
+    "sass": "^1.79.1",
+    "tailwindcss": "^3.4.11"
+  },
+  "dweb": {
+    "watch": true,
+    "colors": {
+      "tailwind": "./src/assets/colors.js",
+      "scss": "./src/styles/utils/_colors.scss",
+      "source": "./src/styles/helpers/colors.scss",
+      "cssRoots": "./src/styles/app.css",
+      "figma": false
+    },
+    "mediaQuery": {
+      "breakpoints": {
+        "3in": "320px",
+        "3-6in": "360px",
+        "3-7in": "376px",
+        "4in": "427px",
+        "5-7in": "576px",
+        "5in": "500px",
+        "7in": "720px",
+        "7-6in": "768px",
+        "8in": "800px",
+        "9in": "920px",
+        "9-9in": "992px",
+        "10in": "1024px",
+        "10-2in": "1280px",
+        "15in": "1536px",
+        "13in": "1366px",
+        "19in": "1920px"
+      },
+      "tailwind": "./tailwind/breakpoints.js",
+      "outDir": "./src/styles/mixins/_query.scss"
+    }
+  }
+}
