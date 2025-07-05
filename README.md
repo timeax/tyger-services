@@ -97,3 +97,103 @@ Collaboration branches ensure edits never touch the main version until approved.
 ## 8. TL;DR Pitch
 **Your brand’s growth OS.**  
 Order social boosts, commission a website, track ROI, and manage payments—all without leaving one intuitive dashboard, powered by plugins and protected by escrow.
+
+
+---
+
+# Welcome to **Tygerbooster**  
+Your all‑in‑one hub for growing, branding & monetising your online presence
+
+---
+
+## Why Tygerbooster?
+
+**Tygerbooster** brings every must‑have digital growth service under one roof.  
+Whether you need more followers, a brand‑new website or a full marketing rollout, we make it **simple, fast and safe**.
+
+* 🔥 **Everything in one place** – order social boosts, web builds, SEO & more without juggling multiple vendors.  
+* 🛡️ **Escrow‑protected payments** – your money is held safely until work is delivered.  
+* 💬 **Real‑time collaboration** – built‑in tickets & live chat connect you directly to our expert team.  
+* 📈 **Actionable insights** – track spend, progress and ROI from a single dashboard.
+
+---
+
+## What can you do with Tygerbooster?
+
+| Goal | Tygerbooster Solution |
+|------|----------------------|
+| **Grow your audience** | Instagram, TikTok & YouTube boosts, influencer campaigns, targeted ads. |
+| **Launch or revamp a site** | Custom websites, landing pages, e‑commerce shops, speed & SEO audits. |
+| **Boost search visibility** | On‑page & technical SEO, backlink outreach, content optimisation. |
+| **Craft a memorable brand** | Logo design, brand kits, social templates, copywriting. |
+| **Retain & re‑engage customers** | Email/SMS drip sequences, loyalty widgets, remarketing pixels. |
+
+All services are **modular** – mix & match to create your perfect growth stack.
+
+---
+
+## How the platform works
+
+1. **Create a free account** – no credit card required.  
+2. **Browse the catalog** – every service lists clear deliverables, pricing & turnaround.  
+3. **Order with confidence** – pay via card, crypto or wallet credit; funds go into **escrow**.  
+4. **Collaborate live** – a ticket + chat room opens automatically so you can share files, ask questions and approve milestones.  
+5. **Track your progress** – real‑time status, percentage completion, and delivery ETA right on your dashboard.  
+6. **Release & review** – once you’re happy, escrow is released, and you can rate the service. Unsatisfied? We’ll make it right or refund.*
+
+\*See our Fair‑Play Refund Policy for full details.
+
+---
+
+## Key features at a glance
+
+### ✨ Unified Dashboard  
+All orders, invoices, chats and analytics in one clean interface.
+
+### 🔒 Safe Payments & Wallet  
+- External gateways (Stripe, PayPal, Flutterwave, Crypto)  
+- **TygerWallet** to store site credit & earn loyalty bonuses  
+- Escrow safeguards every order until you approve.
+
+### 💌 Built‑in Support  
+- **Ticketing:** structured, priority‑based help requests.  
+- **Live Chat:** instant answers during active projects.
+
+### 📊 Smart Analytics  
+Visualise follower growth, web traffic & sales. Spot trends, compare campaigns and export reports in two clicks.
+
+### 🏆 Loyalty & Rewards  
+Earn points on every purchase, unlock discounts and VIP support tiers.
+
+---
+
+## Get started in 3 quick steps
+
+1. **Sign Up** – it takes less than 60 seconds.  
+2. **Pick a Goal** – choose “Grow Followers”, “Build a Website”, or “Custom Package”.  
+3. **Watch the Boost** – track live progress and celebrate your brand’s next milestone!
+
+---
+
+## Frequently Asked Questions
+
+**Q: Are your social boosts safe?**  
+A: Yes. We partner with vetted providers and follow platform‑safe limits.
+
+**Q: Can I use my wallet balance to pay partially?**  
+A: Absolutely – split payments between wallet credit and external gateways.
+
+**Q: What if I’m not satisfied?**  
+A: Open a dispute inside the ticket within 7 days. If we can’t resolve it, your escrow is refunded.
+
+**Q: Do you offer white‑label services?**  
+A: Yes. Agencies can resell our services under their own brand – contact support to enable reseller mode.
+
+---
+
+## Ready to fuel your online success?
+
+[Create your free account](https://tygerbooster.com/signup) and start boosting today.  
+Questions? Jump into live chat – we’re online 24/7!
+
+*Tygerbooster – from clicks to conversions, we’ve got your back.*
