@@ -1,46 +1,99 @@
-# Getting Started with Create React App
+# Digital Growth Platform (DGP) – Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. What Is the DGP?
+**The DGP is an all‑in‑one, plug‑and‑play ecosystem that helps brands *acquire, convert, and retain* customers online.**  
+It fuses a multi‑service order engine (SMM, web & app builds, branding, SEO, etc.) with real‑time collaboration tools, automated payments + escrow, analytics, and a rich plugin framework—so clients scale from “idea” to “impact” without switching tools or vendors.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 2. Core Pillars
 
-### `npm start`
+| Pillar | What It Covers | Key Outcomes |
+|--------|----------------|--------------|
+| **Acquisition** | SMM panel, paid‑ads triggers, influencer marketplace, SEO audits | Traffic & attention |
+| **Conversion** | Custom sites, landing pages, e‑commerce builds, CRO testing | Leads & sales |
+| **Retention** | Email/SMS drip builders, loyalty widgets, remarketing | Repeat buyers |
+| **Collaboration** | Ticketing, live chat, contract e‑sign, review tasks | Smooth project flow |
+| **Financial** | Wallets, multi‑gateway payments, escrow, refunds | Secure, flexible payments |
+| **Insights** | Unified analytics, service health, spend vs ROI charts | Data‑driven decisions |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 3. Feature Breakdown
 
-### `npm test`
+### 3.1 Multi‑Service Order Engine
+- **Dynamic catalog:** SMM boosts, web dev packages, design kits, SEO retainers, more.  
+- **Smart intake:** Each service defines required fields & validations (no vague briefs).  
+- **Order lifecycle:** Pending → Active → Completed/Failed, with drip‑feed and refill logic.  
+- **Snapshot & auditing:** Every payload is snapshotted—perfect for support and refunds.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3.2 Plugin Architecture
+- **SMM Handlers:** Standardizes wildly different panel APIs. Add a new provider in minutes.  
+- **Payment Gateways:** Drop‑in plugins (Stripe, PayPal, Flutterwave, *internal wallet*).  
+- **Future‑proof:** Same pattern will power virtual accounts, AI tools, and more.
 
-### `npm run build`
+### 3.3 Wallet & Escrow System
+- **Wallet gateway (`is_wallet = true`):** Lets users pay with on‑site credit.  
+- **Escrow holds:** Funds are locked when paying for orders; released in slices as work finishes.  
+- **Automatic reconciliations:** Partial releases, refunds, expiry‑based payouts.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3.4 Collaboration Suite
+- **Ticketing:** Category‑based tickets with required custom fields, priority & status enums.  
+- **Live chat:** Real‑time room auto‑created for dev/design projects.  
+- **Contract manager:** e‑sign, file storage, status tracking—linked straight to the order.  
+- **ReviewTask system:** Multi‑role reviews, approvals, and help‑requests à la GitHub PRs.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3.5 Service Vault & Versioning
+Store internal service drafts, track iterations, role‑based visibility (worker, reviewer, approver, supervisor, super).  
+Collaboration branches ensure edits never touch the main version until approved.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 3.6 Analytics & Dashboards
+- Unified metrics: spend, traffic, conversion, social growth, service health.  
+- Drill‑downs per client, per campaign, per time range.  
+- Exportable CSV / scheduled email digests.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 4. Developer Experience
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| Stack Piece | Highlights |
+|-------------|------------|
+| **Backend** | Laravel 12, Prisma‑to‑DBML migrations → MySQL, modular service classes. |
+| **Frontend**| Inertia.js + React, Tailwind v4, global Ziggy routes, `window.axios`. |
+| **Enums & DB**| Comprehensive enum system, snake_case columns, camelCase relations. |
+| **CLI**      | `tyger-cli gen` scaffolds plugins, pages, React hooks, migrations. |
+| **Testing**  | Pest + Laravel test factories for every model (transactions, escrow…). |
+| **Observability** | Stacktrace‑JS integration, structured logs, TransactionLog for every state/event. |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 5. Security & Compliance
+- **RBAC** with Spatie roles + custom permission map.  
+- **Escrow‑first** flow minimizes fraud and chargebacks.  
+- **Fully audited**: TransactionLog, ReviewTask logs, attachment metadata.  
+- **GDPR‑friendly**: Data export & delete endpoints.  
+- **Extensible**: Ready for KYC plugins and PCI‑compliant tokenized payments.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 6. Competitive Edge
+1. **Single contract, single dashboard** – replaces juggling five SaaS tools.  
+2. **Real developers on tap** – web/app jobs run side‑by‑side with SMM boosts.  
+3. **Financial trust layer** – escrow + wallet means clients *and* providers feel safe.  
+4. **Plugin openness** – any new marketing or payment trend fits without core rewrites.  
+5. **Deep analytics** – spend vs ROI clarity turns budgets into strategy.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+## 7. Roadmap (High‑Impact Items)
+1. **AI Copy & Design Assistant** – auto‑generate ad copy, blog drafts, hero sections.  
+2. **Marketplace API** – let third‑party agencies push their offers into the catalog.  
+3. **White‑Label Mode** – resellers spin up branded sub‑instances in minutes.  
+4. **Realtime BI** – stream campaign success metrics into BigQuery / Snowflake.  
+5. **Mobile App** – approve proofs, chat, and release escrow on the go.
+
+---
+
+## 8. TL;DR Pitch
+**Your brand’s growth OS.**  
+Order social boosts, commission a website, track ROI, and manage payments—all without leaving one intuitive dashboard, powered by plugins and protected by escrow.
